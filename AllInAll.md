@@ -1,6 +1,6 @@
 再阅读这个之前请看 ->[申明](README.md)
 - 序章
-  - [配置环境](https://github.com/Over-Run/ForgeDevelopmentChineseCourseOfStudy/docs/settings.md) java下载-> idea下载 -> forge下载 -> 配置安装环境 -> 启动游戏 -> 输出:模组加载modid成功
+  - [配置环境](https://github.com/Over-Run/ForgeDevelopmentChineseCourseOfStudy/blob/main/docs/settings.md) java下载-> idea下载 -> forge下载 -> 配置安装环境 -> 启动游戏 -> 输出:模组加载modid成功
   - [事件注册]() 事件注册
   - [物品的注册]() 注册物品
     - [注册物品组]() 创造模式标签
